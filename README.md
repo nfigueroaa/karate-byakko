@@ -1,4 +1,4 @@
-# 🥋 Byakko Karte-Do Platform v2.0 (React + Vite)
+# 🥋 Byakko Karate-Do Platform v2.0 (React + Vite)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Stack-React_v18-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
